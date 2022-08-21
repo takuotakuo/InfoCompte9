@@ -21,7 +21,7 @@
 // @exclude        *.ogame*gameforge.com/game/index.php?page=displayMessageNewPage*
 // ==/UserScript==
 
-var Version = '9.0.1';
+var Version = '9.0.0';
 //var numberUserscript = '133137';
 
 var start_time = (new Date()).getTime();
