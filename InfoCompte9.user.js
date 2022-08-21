@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           InfoCompte7
+// @name           InfoCompte9
 // @namespace   2c7e63c68903f0a8b63d7bfdd749d871
 // @description    InfoCompte
 // @vOGgame        9.0.2
