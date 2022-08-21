@@ -13,8 +13,8 @@
 // @copyright 2019, benneb (https://openuserjs.org/users/benneb)
 // @license MIT
 
-// @updateURL https://openuserjs.org/meta/takuotakuo/InfoCompte7.meta.js
-// @downloadURL https://openuserjs.org/install/takuotakuo/InfoCompte7.user.js
+// @updateURL https://openuserjs.org/meta/takuotakuo/InfoCompte9.meta.js
+// @downloadURL https://openuserjs.org/install/takuotakuo/InfoCompte9.user.js
 
 // @include     	*.ogame*gameforge.com/game/index.php?page=*
 
