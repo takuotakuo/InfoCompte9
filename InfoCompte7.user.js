@@ -3,7 +3,7 @@
 // @namespace   2c7e63c68903f0a8b63d7bfdd749d871
 // @description    InfoCompte
 // @vOGgame        9.0.2
-// @version        7.0.20
+// @version        9.0.1
 // @author         Vulca & now benneb
 // @grant		   GM_getValue
 // @grant		   GM_setValue
