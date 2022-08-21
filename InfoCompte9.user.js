@@ -20,6 +20,7 @@
 
 // @exclude        *.ogame*gameforge.com/game/index.php?page=displayMessageNewPage*
 // ==/UserScript==
+//testtestestestsetst
 
 var Version = '9.0.0';
 //var numberUserscript = '133137';
