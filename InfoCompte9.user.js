@@ -37,6 +37,17 @@ var Tamper = false;
 var DATA = new Array();
 var adresse_forum = "http://board.origin.ogame.de/board6-origin/board38-tools-scripts-skins/board39-tolerated-tools-addons-scripts/2056-infocompte-script/"
 
+function GM_addStyle(css) {
+    const style = document.getElementById("GM_addStyleBy8626") || (function() {
+	const style = document.createElement('style');
+	style.type = 'text/css';
+	style.id = "GM_addStyleBy8626";
+	document.head.appendChild(style);
+	return style;
+    })();
+    const sheet = style.sheet;
+    sheet.insertRule(css, (sheet.rules || sheet.cssRules || []).length);
+}
 	if (Chrome)
 	{
 
@@ -64,17 +75,7 @@ var adresse_forum = "http://board.origin.ogame.de/board6-origin/board38-tools-sc
 		{
 			localStorage.removeItem(value);
 		}
-        function GM_addStyle(css) {
-            const style = document.getElementById("GM_addStyleBy8626") || (function() {
-            const style = document.createElement('style');
-            style.type = 'text/css';
-            style.id = "GM_addStyleBy8626";
-            document.head.appendChild(style);
-            return style;
-        })();
-        const sheet = style.sheet;
-        sheet.insertRule(css, (sheet.rules || sheet.cssRules || []).length);
-      }
+        
 	}
 
 	function trim(string)
