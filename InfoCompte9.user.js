@@ -19,6 +19,7 @@
 // @include     	*.ogame*gameforge.com/game/index.php?page=*
 
 // @exclude        *.ogame*gameforge.com/game/index.php?page=displayMessageNewPage*
+// @exclude        *.ogame*gameforge.com/game/index.php?page=standalone&component=empire
 // ==/UserScript==
 //testtestestestsetst
 
